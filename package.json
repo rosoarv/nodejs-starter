@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-starter",
+  "version": "1.0.0",
+  "description": "starter for nodejs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosoarv/nodejs-starter.git"
+  },
+  "keywords": [
+    "nodejs",
+    "starter"
+  ],
+  "author": "rosoarv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosoarv/nodejs-starter/issues"
+  },
+  "homepage": "https://github.com/rosoarv/nodejs-starter#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
