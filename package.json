@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/rosoarv/nodejs-starter#readme",
   "dependencies": {
+    "config": "^2.0.1",
     "express": "^4.16.3"
   }
 }
